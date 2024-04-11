@@ -9,3 +9,5 @@ if ((resposta == "sim") or (resposta == "Sim") or (resposta == "SIM")):
 if ((resposta == "não") or (resposta == "nao") or (resposta == "NÃO") or (resposta == "NAO") or (resposta == "Não")):
     print("Que pena!")
     print("Você deve estar chateado")
+
+print("Fim.")
