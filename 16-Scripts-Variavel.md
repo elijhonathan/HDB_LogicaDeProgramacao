@@ -1,3 +1,6 @@
-## no cmd
-set nome = Eli
-echo olá, %nome%!
+# no cmd
+
+### set nome = Eli
+
+### echo olá, %nome%!
+
