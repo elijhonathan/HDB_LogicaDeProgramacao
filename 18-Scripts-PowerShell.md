@@ -9,4 +9,8 @@
 ### for ($i=1; $i -le 5; $i++) {write-Host "Interação $i"}
 
 ### function Saudacao {param ( [string]$nome) Write-Host "Olá, $nome! seja bem vindo"}
-## Saudacao -nome Eli
+### Saudacao -nome Eli
+
+### function Saudacao {param ( [string]$nome, [string]$cumprimento="Olá, seja bem vindo") Write-Host "$cumprimento, $nome!"}
+### Saudacao -nome "Eli"
+### Saudacao -nome "Eli" -cumprimento "Boa noite"
